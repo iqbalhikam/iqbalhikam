@@ -38,6 +38,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/iqbalhikam/iqbalhikam/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/iqbalhikam/iqbal.readmi/blob/output/snake.svg" alt="Snake animation" />
 
 ###
