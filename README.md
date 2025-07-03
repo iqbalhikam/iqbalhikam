@@ -22,9 +22,6 @@ I believe that every day is an opportunity to learn something new and create val
 
 ###
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,mysql,express,nodejs,git" alt="Tech Stack"/>
-</p>
 
 
 ###
