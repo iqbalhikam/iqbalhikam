@@ -18,7 +18,7 @@ I believe that every day is an opportunity to learn something new and create val
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">my commit</h2>
 
 ###
 
